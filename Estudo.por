@@ -1,8 +1,8 @@
 programa
 {
 	funcao inicio()
-	{
-		inteiro numeros[] = {1,2,3,4,5,6,7,8,9,10,13,15,18,21,25,27,30}
+	{		
+		inteiro numeros[] = {30,27,25,21,18,15,13,10,9,8,7,6,5,4,3,2,1}
 		multiplos(numeros)
 				
 
@@ -33,5 +33,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 194; 
+ * @POSICAO-CURSOR = 34; 
  */
