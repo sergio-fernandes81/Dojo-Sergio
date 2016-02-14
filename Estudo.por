@@ -10,7 +10,8 @@ programa
 				
 
 		//Escreva apenas os números multiplos de 3
-		//De uma forma dinâmica		 
+		//De uma forma dinâmica		
+		//Altere a função para calcular o multiplo de qualquer numero		 
 
 	}
 
@@ -39,5 +40,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 422; 
+ * @POSICAO-CURSOR = 303; 
  */
