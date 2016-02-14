@@ -2,7 +2,7 @@ programa
 {
 	funcao inicio()
 	{		
-		inteiro numeros[] = {30,27,25,21,18,15,13,10,9,8,7,6,5,4,3,2,1}
+		inteiro numeros[] = {39,36,33,30,27,25,21,18,15,13,10,9,8,7,6,5,4,3,2,1}
 		multiplos(numeros)
 				
 
@@ -19,7 +19,7 @@ programa
 		
 		{
 			
-			se (numeros[i] % 2 == 0)
+			se (numeros[i] % 3 == 0)
 			{
 			
 				escreva(numeros[i],"\n")
@@ -37,5 +37,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 334; 
+ * @POSICAO-CURSOR = 328; 
  */
