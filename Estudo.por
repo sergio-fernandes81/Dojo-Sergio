@@ -6,9 +6,9 @@ programa
 	funcao inicio()
 	{		
 		inteiro sergio[] = {39,36,33,30,27,25,21,18,15,13,10,9,8,7,6,5,4,3,2,1}
-		multiplos(sergio,5)
+		multiplos(sergio,7)
 				
-				
+ // teste com o GIT na maquina da Estapar				
 
 		//Escreva apenas os números multiplos de 3
 		//De uma forma dinâmica		
@@ -44,5 +44,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 174; 
+ * @POSICAO-CURSOR = 217; 
  */
