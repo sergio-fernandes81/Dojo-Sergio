@@ -25,7 +25,8 @@ programa
 			se (numeros[i] % multiplo == 0)
 			
 			escreva(numeros[i] / 2, "\n")
-				
+
+			enquanto (numeros[i] == 0)
 			
 			{
 			
@@ -45,5 +46,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 114; 
+ * @POSICAO-CURSOR = 474; 
  */
