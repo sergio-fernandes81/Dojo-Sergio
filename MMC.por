@@ -5,10 +5,9 @@ programa
 
 	funcao inicio()
 	{		
-		inteiro sergio[] = {39,36,33,30,27,25,21,18,15,13,10,9,8,7,6,5,4,3,2,1}
-		multiplos(sergio,7)
+		inteiro sergio[] = {20,10}
+		multiplos(sergio,2)
 				
- // teste com o GIT na maquina da Estapar				
 
 		//Escreva apenas os números multiplos de 3
 		//De uma forma dinâmica		
@@ -25,11 +24,15 @@ programa
 			
 			se (numeros[i] % multiplo == 0)
 			
+			escreva(numeros[i] / 2, "\n")
+				
+			
 			{
 			
 			
+				//escreva(numeros[i], "\n")
 				
-				escreva(numeros[i],"\n")
+				
 			}
 		}
 
@@ -42,5 +45,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 591; 
+ * @POSICAO-CURSOR = 114; 
  */
